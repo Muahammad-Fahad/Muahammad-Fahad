@@ -3,10 +3,15 @@
 ========================= -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muahammad-Fahad&label=Profile%20views&color=brightgreen&style=flat" />
-  <img src="https://img.shields.io/github/followers/Muahammad-Fahad?label=Followers&style=flat&color=brightgreen" />
-  <img src="https://img.shields.io/github/stars/Muahammad-Fahad?label=Stars&style=flat&color=yellow" />
+  <img src="Downloads\banner.png" width="100%" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muahammad-Fahad&label=Profile%20views&color=42A5F5&style=flat" />
+  <img src="https://img.shields.io/badge/Rating-★★★★★-4CAF50?style=flat" />
+  <img src="https://img.shields.io/github/followers/Muahammad-Fahad?label=Followers&style=flat&color=42A5F5" />
+  <img src="https://img.shields.io/github/stars/Muahammad-Fahad?label=Stars&style=flat&color=42A5F5" />
+</p>
+
 
 <ul>
   <li>💼 Full Stack Laravel Developer</li>
