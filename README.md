@@ -3,7 +3,7 @@
 ========================= -->
 
 <p align="center">
-  <img src="Downloads\banner.png" width="100%" />
+  <img src="./banner.png" width="100%" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Muahammad-Fahad&label=Profile%20views&color=42A5F5&style=flat" />
